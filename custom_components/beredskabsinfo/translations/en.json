@@ -1,0 +1,16 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure BeredskabsInfo",
+        "description": "Vælg beredskabsID, station og hvor ofte data skal opdateres",
+        "data": {
+          "beredskabsid": "BeredskabsID",
+          "station": "Station",
+          "events": "Antal hændelser",
+          "scan_interval": "Opdateringsinterval (minutter)"
+        }
+      }
+    }
+  }
+}

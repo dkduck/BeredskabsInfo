@@ -1,0 +1,9 @@
+{
+  "domain": "beredskabsinfo",
+  "name": "BeredskabsInfo",
+  "version": "1.0.0",
+  "documentation": "https://github.com/dkduck/beredskabsinfo",
+  "requirements": ["feedparser"],
+  "codeowners": ["@dkduck"],
+  "config_flow": true
+}
